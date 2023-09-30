@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SEIF385
-- 👀 I’m interested in Embedded and Mobile
+- 👀 I’m interested in Embedded, Mobile and Software Testing 
 - 🌱 I’m currently learning Mobile and Embedded
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
