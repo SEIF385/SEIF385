@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seif Naem Mohamed 
-- 👀 I’m an Embedded Engineer interested in Mobile and Software Testing 
+- 👀 I’m Embedded and Software Testing Engineer  
 - 🌱 I’m currently learning Software Testing and Embedded
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
